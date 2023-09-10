@@ -1,0 +1,11 @@
+@mixin fz($size) {
+  font-size: ($size / 16) + ren;
+}
+
+// @include fz(12);
+
+// 子要素のサイズ / 親要素のcontent-boxサイズ * 100%
+
+@mixin w_px_parcent($child-size, $parrent-content-size) {
+  width: calc(($child-size / $parrent-content-size) * 100%);
+}

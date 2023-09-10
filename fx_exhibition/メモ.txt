@@ -1,0 +1,3 @@
+PC
+INFORMATION の画像の配置がおかしい。
+  reset.cssを変更してる。後で治す。

@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+// 幅関係の設定
+$width-base: 1200px; // 全体
+$width-max: 1070;
+$width-main: 800px; // メインエリアの幅
+$width-side: 360px; // サイドバーの幅
+
+$navHeight: 100px;
+
+// フォント関係の設定
+$font-base-size: 16;
+$font-base: "Yu Mincho", "YuMincho", serif;
+$font-serif: "Yu Mincho", "YuMincho", serif;
+
+// 色関係の設定
+// サイトカラー
+$color-main: #535353;
+$color-sub: #535353;
+// フォントカラー
+$color-font: black;
+// リンクカラー
+$color-link: #535353;
+
+$cWhite: white;
+$cBlack: black;
+$cSubTitle: #535353;
+$cBgGray: #eaebe6;
+$cWineRed: #904669;
